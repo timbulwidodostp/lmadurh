@@ -1,0 +1,5 @@
+D 'DEA': Dynamic Autocorrelation Tests after (OLS-ALS) Regressions Use lmadurh With STATA 19
+D
+F lmadurh.ado
+F lmadurh.dlg
+F lmadurh.sthlp

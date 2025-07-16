@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p lmadurh Dynamic Autocorrelation Tests after (OLS-ALS) Regressions Use lmadurh With STATA 19
