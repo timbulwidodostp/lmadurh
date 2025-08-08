@@ -3,6 +3,8 @@ Dynamic Autocorrelation Tests after (OLS-ALS) Regressions Use lmadurh With STATA
 
 Compute Durbin h, Harvey LM, Wald LM Autocorrelation Tests Use lmadurh With STATA 19
 
+https://www.youtube.com/watch?v=w3yK061YSzU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
